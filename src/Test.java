@@ -7,4 +7,8 @@ public class Test {
         System.out.println();
         //
     }
+
+    public static void tom(){
+
+    }
 }
