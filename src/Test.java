@@ -13,4 +13,8 @@ public class Test {
     public static void tom(){
         System.out.println();
     }
+
+    public static void jerry(){
+        System.out.println();
+    }
 }
