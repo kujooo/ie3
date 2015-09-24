@@ -9,6 +9,6 @@ public class Test {
     }
 
     public static void tom(){
-
+        System.out.println();
     }
 }
